@@ -4,7 +4,6 @@ body{
     color: #FFFFFF;
     margin-top: 20px;
     margin-left: 20px;
-    margin-bottom: 0;
     margin-right: 20px;
 }
 
@@ -12,6 +11,7 @@ h1{
     font-size: 42px;
     text-align: center;
     padding: 15px;
+    color: #FFFFFF;
 }
 
 h2{
@@ -22,8 +22,6 @@ h2{
 p{
     font-size: 24px;
     padding-top: 10px;
-    padding-right: 0;
-    padding-bottom: 0;
     padding-left: 10px;
 }
 
@@ -109,5 +107,4 @@ footer p{
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-    padding-left: 0;
 }
